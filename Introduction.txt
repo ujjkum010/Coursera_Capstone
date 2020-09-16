@@ -1,0 +1,6 @@
+Seattle Traffic accident Severity Prediction
+
+Traffic accidents are one of the  most common problems around the globe which contributes a large portion to the yearly mortality rate.It is the pure case of human negligance along machine defectness to give rise to this tragic event.
+However if we analyze any aftermaths of a traffic accident,we can always find a pattern (bad weather,unusual traffic,machine defect,driver's negligence).So in this project,I am trying to predict the severity of a trafic accident based on these factors.
+
+The purpose of this project is to minimise the traffic accidents to a significant scale in the long shot.The prediction of the severity of traffic accidents will be beneficial to people in a lot of ways.It will also enable government to develop new policies regarding road safety.

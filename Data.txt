@@ -1,0 +1,21 @@
+Our goal is the prediction.So this is an example of Supervised Learning.Thr dataset chosn from this problem is Seattle Traffic Accident data which contains record of traffic accidents from the year 2004 to 2020.
+
+The target or label columns is the SEVERITY in terms of human fatality,traffic delay,property damage or other type of accident bad impact.
+
+The major attributes are:
+1.SEVERITYCODE : This is the dependent attribute or the attribute that needs to be predicted.It varies from 0 to 3 where 0 represents the damage to be unknown and 3 represents the damage to be maximum(life fatality).
+
+2.COLLISIONTYPE : This shows a detailed description of the severity of the accident.
+
+3.INCDATE : This shows date and time of the accident.
+
+4.INATTENTIONIND : Whether or not collision was due to inattention.
+(Y/N)
+
+5.UNDERINFL : Whether or not a driver involved was under the
+influence of drugs or alcohol.
+
+6.WEATHER : A description of the weather conditions during
+the time of the collision.
+
+7. ROADCOND :  The condition of the road during the collision.
